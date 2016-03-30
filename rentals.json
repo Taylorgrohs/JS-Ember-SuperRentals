@@ -35,5 +35,12 @@
     "name": "Taylor Grohs",
     "age": 24,
     "bio": "I love Starbucks so much I can't even"
+    }],
+    "cities": [{
+      "name": "Portland",
+      "country": "USA"
+    }, {
+      "name": "Seattle",
+      "country": "USA"
     }]
 }
